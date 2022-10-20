@@ -1,0 +1,22 @@
+.restaurantCard {
+  p,
+  h2 {
+    margin: 5px;
+  }
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.card {
+  width: 100%;
+}
+
+.cardTitle {
+  white-space: nowrap;
+}
+
+.cardDesc {
+  max-height: 50px;
+  overflow: hidden;
+}

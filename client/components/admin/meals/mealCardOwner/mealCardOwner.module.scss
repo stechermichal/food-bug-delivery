@@ -1,0 +1,16 @@
+.card {
+  width: 100%;
+
+  button {
+    margin-right: 5px;
+  }
+}
+
+.cardTitle {
+  white-space: nowrap;
+}
+
+.cardDesc {
+  max-height: 50px;
+  overflow: hidden;
+}
