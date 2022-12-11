@@ -1,4 +1,4 @@
-# panthera-bug-busters-food-delivery
+# food-delivery
 
 Food Delivery Project (react) - Panthera OSIC
 

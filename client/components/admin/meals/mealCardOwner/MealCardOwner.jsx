@@ -30,7 +30,7 @@ export default function MealCardOwner(props) {
           <CardTitle className={styles.cardTitle} tag="h5">
             {props.meal_name.length < 19 ? props.meal_name : shortendName}
           </CardTitle>
-          <CardText>Here should be meal description like what it contain ...(we have to add it to database).</CardText>
+          <CardText>Here should be meal description like what it contain.</CardText>
           <CardText className={styles.cardDesc} tag="h6">
             {props.price}
           </CardText>
